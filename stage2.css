@@ -117,7 +117,7 @@ height: 100vh;
     background-repeat: no-repeat;
     background-image: url(./gallery-2.jpeg);}
 .image-3{
-    background-image: url(./images/gallery-3.jpeg);
+    background-image: url(./gallery-3.jpeg);
     width: 35%;
     background-size: cover;
     background-position: center center;
@@ -268,7 +268,7 @@ padding: 50px;
     margin-right: 5px; }
 
     .slide-3{
-        background-image: url(./images/slide-3.jpg);
+        background-image: url(./slide-3.jpg);
         width: 25%;
         background-size: cover;
         background-position: center center;
